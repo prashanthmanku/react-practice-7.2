@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.list-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.Suggestiontext {
+  color: #475569;
+  font-size: 14px;
+  font-weight: 500;
+}
+img {
+  width: 18px;
+  margin-right: 23px;
+}
